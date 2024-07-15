@@ -19,6 +19,12 @@ The datasets can be found on Kaggle:
 <br><br>
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue)](https://www.kaggle.com/datasets/hemanthhari/dehazing-dataset-thesis)
 
-
 #### Training the model
+The following steps needs to be done to train the model.
+- Make sure the requirements are satisfied.
+- Download the Dataset from the URL mentioned.
+- Check for presence of GPU
+- Train the model using the DWT+DehazerNet-MSE-Perceptual Training Script.ipynb and DWT+DehazerNet-MSE-Perceptual Training Script.ipynb notebooks
+- Save the model
 #### Testing the model
+The model can be tested using the inference-script.ipynb. The results will be saved in a separate folder. The process can be easily run on a CPU.

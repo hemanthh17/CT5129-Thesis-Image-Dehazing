@@ -22,8 +22,10 @@ The datasets can be found on Kaggle:
 #### Training the model
 The following steps needs to be done to train the model.
 - Make sure the requirements are satisfied.
+  ``` pip install -r requirements.txt```
 - Download the Dataset from the URL mentioned.
 - Check for presence of GPU
+  ``` nvidia-smi```
 - Train the model using the DWT+DehazerNet-MSE-Perceptual Training Script.ipynb and DWT+DehazerNet-MSE-Perceptual Training Script.ipynb notebooks
 - Save the model
 #### Testing the model

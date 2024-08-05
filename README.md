@@ -1,5 +1,5 @@
-# CT5129- Artificial Intelligence Project
-## Topic: Image Dehazing using Deep Learning
+# CT5129- Artificial Intelligence Project 
+## Topic: Image Dehazing using Deep Learning 📸 🌫
 ### Name: Hemanth Harikrishnan
 ### ID: 23105030
 
@@ -7,7 +7,7 @@ The method uses deep convolutional networks with Channel and Pixel Attention to 
 <br><br>
 [<img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-github-badge-28.svg" alt="Weights & Biases" width="150"/>](https://wandb.ai/hemanthh17/CT5129-Image%20Dehazing?nw=nwuserhemanthh17)
       
-#### Dataset
+#### Dataset 🖥
 The datasets used are: 
 - RESIDE (ITS and SOTS)
 - I-Haze (NTIRE-2018)
@@ -19,7 +19,7 @@ The datasets can be found on Kaggle:
 <br><br>
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue)](https://www.kaggle.com/datasets/hemanthhari/dehazing-dataset-thesis)
 
-#### Training the model
+#### Training the model 
 The following steps needs to be done to train the model.
 - Make sure the requirements are satisfied. <br>
   ```sh
@@ -34,3 +34,6 @@ The following steps needs to be done to train the model.
 - Save the model
 #### Testing the model
 The model can be tested using the inference-script.ipynb. The results will be saved in a separate folder. The process can be easily run on a CPU.
+
+#### Note 📝
+<b>The paths are supposed to be changed according to where your corresponding dataset is present. The paths in the code are according to the Kaggle dataset strucutre.</b>

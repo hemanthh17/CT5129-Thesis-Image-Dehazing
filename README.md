@@ -1,5 +1,5 @@
 # CT5129- Artificial Intelligence Project 
-## Topic: Image Dehazing using Deep Learning 📸 🌫
+## Topic: ClearFlow: An Enhanced Image Dehazing Workflow Using Model Ensembling and CNN Postprocessing 📸 🌫
 ### Name: Hemanth Harikrishnan
 ### ID: 23105030
 

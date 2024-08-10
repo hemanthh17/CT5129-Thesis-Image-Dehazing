@@ -34,7 +34,7 @@ The following steps needs to be done to train the model.
 - Train the model using the DWT+DehazerNet-MSE-Perceptual Training Script.ipynb and DWT+DehazerNet-MSE-Perceptual Training Script.ipynb notebooks
 - Save the model
 #### Testing the model
-The model can be tested using the inference-script.ipynb. The results will be saved in a separate folder. The process can be easily run on a CPU.
+The model can be tested using the ```inference-script.ipynb```. The results will be saved in a separate folder. The process can be easily run on a CPU.
 
 #### Note 📝
 <b>The paths are supposed to be changed according to where your corresponding dataset is present. The paths in the code are according to the Kaggle dataset strucutre.</b>
